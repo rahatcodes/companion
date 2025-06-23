@@ -1,6 +1,7 @@
 {
   "name": "jsm_saas_app",
   "version": "0.1.0",
+  "packageManager": "npm@9.8.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
